@@ -1,4 +1,4 @@
-# Mee6 : The Discord bot
+# KaloBot : Kalolol's first Discord Bot
 ![Mee6](http://mee6.xyz/static/img/meeseeks.png)
 
 ## What is it?
